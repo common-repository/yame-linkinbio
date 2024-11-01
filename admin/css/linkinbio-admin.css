@@ -1,0 +1,15 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+.instagram-posts {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
